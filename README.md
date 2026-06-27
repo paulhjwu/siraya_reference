@@ -2,12 +2,17 @@
 
 Reference tables for Siraya (西拉雅語), a Formosan Austronesian language, derived from Adelaar (2011) and related materials.
 
+---
+
 ## Grammatical categories
 
 Overview of Siraya's grammatical category system.
 
-- [siraya_grammatical_categories.md](siraya_grammatical_categories.md) — English
-- [siraya_grammatical_categories_tw.md](siraya_grammatical_categories_tw.md) — Chinese (中文)
+| Version | File |
+|---------|------|
+| English | [siraya_grammatical_categories.md](siraya_grammatical_categories.md) |
+| Chinese (中文) | [siraya_grammatical_categories_tw.md](siraya_grammatical_categories_tw.md) |
+
 
 ---
 
@@ -45,6 +50,17 @@ Mapping from glossing labels to their surface morphological forms.
 | English (alphabetical by marker) | [siraya_markers_to_affixes_alphabetical.md](siraya_markers_to_affixes_alphabetical.md) |
 | Chinese, by category (中文) | [siraya_markers_to_affixes_tw.md](siraya_markers_to_affixes_tw.md) |
 | Chinese, alphabetical (中文) | [siraya_markers_to_affixes_alphabetical_tw.md](siraya_markers_to_affixes_alphabetical_tw.md) |
+
+---
+
+## Pronoun system
+
+Full paradigm of Siraya pronouns across four series (independent, nominative, genitive, oblique) and seven person/number categories.
+
+| Version | File |
+|---------|------|
+| English | [siraya_pronoun_system_en.md](siraya_pronoun_system_en.md) |
+| Chinese (中文) | [siraya_pronoun_system_tw.md](siraya_pronoun_system_tw.md) |
 
 
 ## Disclaimer
