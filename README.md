@@ -2,12 +2,6 @@
 
 Reference tables for Siraya (西拉雅語), a Formosan Austronesian language, derived from Adelaar (2011) and related materials.
 
-## Disclaimer
-
-These reference tables were compiled with AI assistance based on Adelaar (2011) and related materials. While care has been taken to ensure accuracy, errors or misrepresentations may be present. Feedback on any inaccuracies is warmly welcomed — please open an issue or contact the maintainer.
-
----
-
 ## Grammatical categories
 
 Overview of Siraya's grammatical category system.
@@ -53,3 +47,6 @@ Mapping from glossing labels to their surface morphological forms.
 | Chinese, alphabetical (中文) | [siraya_markers_to_affixes_alphabetical_tw.md](siraya_markers_to_affixes_alphabetical_tw.md) |
 
 
+## Disclaimer
+
+These reference tables were compiled with AI assistance based on Adelaar (2011) and related materials. While care has been taken to ensure accuracy, errors or misrepresentations may be present. Feedback on any inaccuracies is warmly welcomed — please open an issue or contact the maintainer.
