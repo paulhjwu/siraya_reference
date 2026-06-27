@@ -1,6 +1,6 @@
 # Siraya affixes — complete alphabetical reference
 
-All affixes from Adelaar (2011), sorted by first character of the affix form. Type key: **PRE** prefix · **SUF** suffix · **INF** infix / reduplication · **CIR** circumfix · **CLI** clitic.
+All affixes derived from Adelaar (2011) and related materials, sorted by first character of the affix form. Type key: **PRE** prefix · **SUF** suffix · **INF** infix / reduplication · **CIR** circumfix · **CLI** clitic.
 
 Category markers: **VOICE** · **VERB-CLASS** · **TENSE** · **ASPECT** · **MOOD** · **CAUS** · **INCH** · **CASE** · **NUMBER** · **NOML** · **ORIENT** · **INV** · **TRANSF** · **ADD** · **ADV**
 
