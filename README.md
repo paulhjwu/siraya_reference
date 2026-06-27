@@ -1,6 +1,6 @@
 # siraya_reference
 
-Reference tables for Siraya (西拉雅語), a Formosan Austronesian language, based on Adelaar (2011).
+Reference tables for Siraya (西拉雅語), a Formosan Austronesian language, derived from Adelaar (2011) and related materials.
 
 ---
 
