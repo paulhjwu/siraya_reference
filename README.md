@@ -9,7 +9,7 @@ Reference tables for Siraya (西拉雅語), a Formosan Austronesian language, ba
 Overview of Siraya's grammatical category system.
 
 - [siraya_grammatical_categories.md](siraya_grammatical_categories.md) — English
-- [siraya_grammatical_categories_cn.md](siraya_grammatical_categories_cn.md) — Chinese (中文)
+- [siraya_grammatical_categories_tw.md](siraya_grammatical_categories_tw.md) — Chinese (中文)
 
 ---
 
@@ -21,7 +21,7 @@ Complete list of prefixes, suffixes, infixes, circumfixes, and clitics, sorted a
 |---------|------|
 | English | [siraya_affixes_alphabetical.md](siraya_affixes_alphabetical.md) |
 | English + abbreviations | [siraya_affixes_alphabetical_with_abbr.md](siraya_affixes_alphabetical_with_abbr.md) |
-| Chinese + abbreviations (中文) | [siraya_affixes_alphabetical_with_abbr_cn.md](siraya_affixes_alphabetical_with_abbr_cn.md) |
+| Chinese + abbreviations (中文) | [siraya_affixes_alphabetical_with_abbr_tw.md](siraya_affixes_alphabetical_with_abbr_tw.md) |
 
 ---
 
@@ -33,7 +33,7 @@ Complete list of free-form grammatical words (tense, mood, case markers, discour
 |---------|------|
 | English | [siraya_free_form_markers_alphabetical.md](siraya_free_form_markers_alphabetical.md) |
 | English + abbreviations | [siraya_free_form_markers_alphabetical_with_abbr.md](siraya_free_form_markers_alphabetical_with_abbr.md) |
-| Chinese + abbreviations (中文) | [siraya_free_form_markers_alphabetical_with_abbr_cn.md](siraya_free_form_markers_alphabetical_with_abbr_cn.md) |
+| Chinese + abbreviations (中文) | [siraya_free_form_markers_alphabetical_with_abbr_tw.md](siraya_free_form_markers_alphabetical_with_abbr_tw.md) |
 
 ---
 
@@ -45,6 +45,7 @@ Mapping from glossing labels to their surface morphological forms.
 |---------|------|
 | English (by category) | [siraya_markers_to_affixes.md](siraya_markers_to_affixes.md) |
 | English (alphabetical by marker) | [siraya_markers_to_affixes_alphabetical.md](siraya_markers_to_affixes_alphabetical.md) |
-| Chinese, alphabetical (中文) | [siraya_markers_to_affixes_alphabetical_cn.md](siraya_markers_to_affixes_alphabetical_cn.md) |
+| Chinese, by category (中文) | [siraya_markers_to_affixes_tw.md](siraya_markers_to_affixes_tw.md) |
+| Chinese, alphabetical (中文) | [siraya_markers_to_affixes_alphabetical_tw.md](siraya_markers_to_affixes_alphabetical_tw.md) |
 
 
