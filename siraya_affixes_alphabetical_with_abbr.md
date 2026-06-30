@@ -1,6 +1,6 @@
 # Siraya affixes — complete alphabetical reference
 
-All affixes derived from Adelaar (2011) and related materials, sorted by first character of the affix form. Type key: **PRE** prefix · **SUF** suffix · **INF** infix / reduplication · **CIR** circumfix · **CLI** clitic.
+All affixes from Adelaar (2011), sorted by first character of the affix form. Type key: **PRE** prefix · **SUF** suffix · **INF** infix / reduplication · **CIR** circumfix · **CLI** clitic.
 
 Category markers: **VOICE** · **VERB-CLASS** · **TENSE** · **ASPECT** · **MOOD** · **CAUS** · **INCH** · **CASE** · **NUMBER** · **NOML** · **ORIENT** · **INV** · **TRANSF** · **ADD** · **ADV**
 
@@ -15,6 +15,8 @@ Category markers: **VOICE** · **VERB-CLASS** · **TENSE** · **ASPECT** · **MO
 | `-an` | SUF | **VOICE** · **NUMBER** · **NOML** | (1) Undergoer-oriented (`uo`) indicative, locative/non-core (`loc`) highlight; (2) collective noun (`coll`) suffix; (3) deverbal locative noun (`loc`) | (1) `ka-tälax-an`; (2) `kaäwlung-an` "humanity"; (3) `ta-tulu-an` "furnace" |
 | `-aney` | SUF | **MOOD** · **VOICE** | Subjunctive + undergoer (`sj.uo`), non-core/locative highlight (`loc`) | `pää-tunun-aney` "shall be delivered" |
 | `-aneyl=` | SUF | **MOOD** · **VOICE** | Allomorph of `-aney` before clitics `=ato`/`=ăpa` | `pää-tunun-aneyl=ato` |
+| `ata- I` | PRE | **VERB-CLASS** | Bound verb base (bvb3, class 3): "put, lay, place onto (a surface or location)"; takes `‹m›` infix in actor voice | `ni-ata-habil-an` "they put clothes on it"; `ata-halap-an` "He lays his hand on them"; `ni-ata-kua-an` "he laid [the body] into the tomb" |
+| `ata- II` | PRE | **VERB-CLASS** | Bound verb base (bvb3, class 3): "forgive, acquit, accept"; possibly connected to `ataral` "leave behind, forgive" | `m-ata-hawma` "to forgive"; `ata-hawma-an` "forgiveness"; `m-ata-nino` "to annul, acquit"; `m-ata-rix` "to accept" |
 | `-aw` | SUF | **MOOD** · **VOICE** | Subjunctive + undergoer (`sj.uo`), lexically restricted set | `kan-aw` "let it be eaten"; `ătaral-aw` |
 | `-awl=` | SUF | **MOOD** · **VOICE** | Allomorph of `-aw` before clitics `=ato`/`=ăpa` | `kan-awl=ato` |
 | `-än` | SUF | **CASE** | Oblique case suffix (`obl`) on human nouns | `tini-än` "him/her (obl)"; `ĭmian-än` "us (obl, excl)" |

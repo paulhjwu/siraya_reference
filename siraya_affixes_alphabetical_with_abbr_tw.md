@@ -15,6 +15,8 @@
 | `-an` | SUF | **VOICE** · **NUMBER** · **NOML** | (1) 受事導向（`uo`）陳述式，處所/非核心論元（`loc`）凸顯；(2) 集合名詞（`coll`）後綴；(3) 動詞衍生處所名詞（`loc`） | (1) `ka-tälax-an`；(2) `kaäwlung-an`「人類」；(3) `ta-tulu-an`「火爐」 |
 | `-aney` | SUF | **MOOD** · **VOICE** | 虛擬式＋受事導向（`sj.uo`），非核心/處所論元凸顯（`loc`） | `pää-tunun-aney`「將被交付」 |
 | `-aneyl=` | SUF | **MOOD** · **VOICE** | `-aney` 在附著詞 `=ato`/`=ăpa` 之前的異音語素 | `pää-tunun-aneyl=ato` |
+| `ata- I` | PRE | **VERB-CLASS** | 受限動詞詞根（`bvb3`，第3類）：「放置、鋪設、放在（表面或處所）上」；施事語態中插入 `‹m›` 中綴 | `ni-ata-habil-an`「他們為之穿衣」；`ata-halap-an`「他將手放在他們身上」；`ni-ata-kua-an`「他將[遺體]放入墳墓」 |
+| `ata- II` | PRE | **VERB-CLASS** | 受限動詞詞根（`bvb3`，第3類）：「寬恕、赦免、接受」；可能與 `ataral`「遺留、寬恕」相關 | `m-ata-hawma`「寬恕」；`ata-hawma-an`「寬恕（名詞）」；`m-ata-nino`「撤銷、赦免」；`m-ata-rix`「接受」 |
 | `-aw` | SUF | **MOOD** · **VOICE** | 虛擬式＋受事導向（`sj.uo`），受詞彙限制 | `kan-aw`「讓它被吃」；`ătaral-aw` |
 | `-awl=` | SUF | **MOOD** · **VOICE** | `-aw` 在附著詞 `=ato`/`=ăpa` 之前的異音語素 | `kan-awl=ato` |
 | `-än` | SUF | **CASE** | 人名名詞上的斜格後綴（`obl`） | `tini-än`「他/她（斜格）」；`ĭmian-än`「我們（斜格，排他）」 |
