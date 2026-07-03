@@ -62,6 +62,17 @@ Full paradigm of Siraya pronouns across four series (independent, nominative, ge
 | English | [siraya_pronoun_system_en.md](siraya_pronoun_system_en.md) |
 | Chinese (中文) | [siraya_pronoun_system_tw.md](siraya_pronoun_system_tw.md) |
 
+---
+
+## Orthography
+
+Overview of the four major spelling traditions in Siraya's written history: the 17th-century Dutch Gospel orthography, the Utrecht Manuscript, the Sinkan Manuscripts, and modern revivalist orthography.
+
+| Version | File |
+|---------|------|
+| English | [Siraya_Orthography.md](Siraya_Orthography.md) |
+| Chinese (中文) | [Siraya_Orthography_tw.md](Siraya_Orthography_tw.md) |
+
 
 ## Disclaimer
 
