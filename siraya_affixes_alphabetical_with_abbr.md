@@ -46,6 +46,20 @@ Category markers: **VOICE** · **VERB-CLASS** · **TENSE** · **ASPECT** · **MO
 | `pa-ka-` | PRE | **CAUS** | Causative (`caus`) of class 1 verbs (`ao1`) | `pa-ka-kuptix` "to purify"; `pa-ka-riang-a` "to save" |
 | `pa-pa-` | PRE | **CAUS** | Causative (`caus`) of class 4 verbs (`v4`) | `pa-pa-reya` "to make peace"; `pa-pa-kulamux` "to clothe" |
 | `paha-` | PRE | **TRANSF** | Transformative: "turn X into Y" | `paha-pa-paul` "turn into bread"; `paha-viri-viri` "to translate" |
+| `sa-` | PRE | **VERB-CLASS** | Bound verb base (bvb2, class 2): "to go through a confined space / difficulty"; also occurs in compounds with no single specific semantic domain | `sa-ka-kua` "to go along a difficult road"; `sa-ra-rbo` "to go in (through a narrow opening)"; `sa-cĭt` "to throw" |
+| `saki-` | PRE | **VERB-CLASS** | Bound verb base (bvb3, class 3): "to throw"; takes `‹m›` infix in actor voice | `s‹m›aki-vaung` "to throw into the sea"; `s‹m›aki-mala` "to cast out"; `s‹m›aki-nanang` "to call, give (as) a name" |
+| `sako- / saku-` | PRE | **VERB-CLASS** | Bound verb base (bvb2, class 2): "to look at/for something" | `sako-a-la-lingaw-an` "mirror"; `saku-peri` "to select" |
+| `sala-` | PRE | **VERB-CLASS** | Bound verb base (bvb3, class 3); meaning unclear (Adelaar marks it "?"); takes `‹m›` infix in actor voice | `s‹m›ala-dĭlux` "to follow" |
+| `sau- / saw- I` | PRE | **VERB-CLASS** | Bound verb base (bvb4, class 4): (1) "to look at"; (2) "to swear, invoke" | (1) `ma-saw-vulas` "to make a sad appearance"; (2) `sau-'lkit` "to swear"; `saw-la-'lkŭt` "oath" |
+| `sau- / saw- II` | PRE | **VERB-CLASS** | Bound verb base (bvb, class unclear); meaning unclear (Adelaar marks it "??"): attested senses "to rob," "to adhere/stay with," "to divorce, leave" | `pa-saw-ara` "to rob"; `saw-tawax` "to divorce, leave"; `saw-lam` "to adhere to, stay with" |
+| `si- I` | PRE | **VERB-CLASS** | Bound verb base (bvb2, class 2): (1) "to order, command, be in a power hierarchy"; (2) "to rank, be in a certain order" | (1) `si-bavaw` "to be superior; ruler"; `si-kidi` "to order, charge"; (2) `si-nḡada` "the first"; `si-uro` "to do first" |
+| `si- II` | PRE | **VERB-CLASS** | Bound verb base (bvb2, class 2): "to transform" | `si-lala` "to change, become different"; `si-tanang` "to prepare" |
+| `si- III` | PRE | **VERB-CLASS** | Bound verb base (bvb, class unclear): "to betray, deceive, harm" | `si-mha-mha` "to betray, to cheat"; `si-dada` "to destroy, corrupt" |
+| `si- IV` | PRE | **VERB-CLASS** | Bound verb base (bvb2, class 2): "to distribute" | `si-at-atäx` "to distribute, share with" |
+| `si- V` | PRE | **VERB-CLASS** | Bound verb base (bvb2, class 2); no single clear semantic domain (Adelaar marks it "?") | `si-ba` "tired, exhausted"; `si-kavax-ǝn` "covenant"; `sĭ-kunung` "to do as one likes" |
+| `su- I` | PRE | **VERB-CLASS** | Bound verb base (bvb3, class 3): "to touch"; takes `‹m›` infix in actor voice | `s‹m›u-kla` "to touch"; `s‹m›u-rap` "to touch"; `s‹m›u-valey` "to find" |
+| `su- II` | PRE | **VERB-CLASS** | Bound verb base (bvb2, class 2): "to watch" | `su-ayam` "to herd, keep; shepherd"; `su-a-ayam` "watch, period of watching at night" |
+| `sux-` | PRE | **VERB-CLASS** | Bound verb base (bvb2, class 2): "to imitate, give a false impression"; surfaces as `su-` before some following segments | `ni-pa-sux-ali-alid` "idol"; `su-Christus` "false Christ"; `su-ivŭng` "to hide" |
 | `tama-` | PRE | **NOML** | Agentive nominalisation: "person who Vs" | `tama-dĭlux` "leader"; `tama-ma-täutäux` "teacher"; `tama-xail` "witness" |
 | `-u` | SUF | **MOOD** | Imperative (`imp`) suffix | `kading-u=kame` "save us!" |
 | `u-` / `äw-` | PRE | **ORIENT** | Motion orientation (`mot`): "toward, into" | `m-u-rbo` "to go inside"; `m-äw-äwma` "go to the city" |

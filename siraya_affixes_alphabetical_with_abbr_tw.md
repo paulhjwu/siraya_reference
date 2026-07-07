@@ -1,6 +1,6 @@
 # 西拉雅語詞綴 — 完整字母順序參考
 
-所有詞綴根據 Adelaar（2011) 及相關資料，依詞綴形式的首字母排序。類型說明：**PRE**（前綴）· **SUF**（後綴）· **INF**（中綴/重疊）· **CIR**（周綴）· **CLI**（附著詞）
+所有詞綴均取自 Adelaar（2011），依詞綴形式的首字母排序。類型說明：**PRE**（前綴）· **SUF**（後綴）· **INF**（中綴/重疊）· **CIR**（周綴）· **CLI**（附著詞）
 
 類別標記：**VOICE**（語態）· **VERB-CLASS**（動詞類別）· **TENSE**（時態）· **ASPECT**（體）· **MOOD**（語氣）· **CAUS**（使役）· **INCH**（起始體）· **CASE**（格）· **NUMBER**（數）· **NOML**（名詞化）· **ORIENT**（趨向）· **INV**（逆轉）· **TRANSF**（轉換）· **ADD**（添加）· **ADV**（轉折）
 
@@ -15,8 +15,8 @@
 | `-an` | SUF | **VOICE** · **NUMBER** · **NOML** | (1) 受事導向（`uo`）陳述式，處所/非核心論元（`loc`）凸顯；(2) 集合名詞（`coll`）後綴；(3) 動詞衍生處所名詞（`loc`） | (1) `ka-tälax-an`；(2) `kaäwlung-an`「人類」；(3) `ta-tulu-an`「火爐」 |
 | `-aney` | SUF | **MOOD** · **VOICE** | 虛擬式＋受事導向（`sj.uo`），非核心/處所論元凸顯（`loc`） | `pää-tunun-aney`「將被交付」 |
 | `-aneyl=` | SUF | **MOOD** · **VOICE** | `-aney` 在附著詞 `=ato`/`=ăpa` 之前的異音語素 | `pää-tunun-aneyl=ato` |
-| `ata- I` | PRE | **VERB-CLASS** | 受限動詞詞根（`bvb3`，第3類）：「放置、鋪設、放在（表面或處所）上」；施事語態中插入 `‹m›` 中綴 | `ni-ata-habil-an`「他們為之穿衣」；`ata-halap-an`「他將手放在他們身上」；`ni-ata-kua-an`「他將[遺體]放入墳墓」 |
-| `ata- II` | PRE | **VERB-CLASS** | 受限動詞詞根（`bvb3`，第3類）：「寬恕、赦免、接受」；可能與 `ataral`「遺留、寬恕」相關 | `m-ata-hawma`「寬恕」；`ata-hawma-an`「寬恕（名詞）」；`m-ata-nino`「撤銷、赦免」；`m-ata-rix`「接受」 |
+| `ata- I` | PRE | **VERB-CLASS** | 附著動詞詞根（bvb3，第3類）：「放置、擱放（於表面或位置上）」；施事語態中插入 `‹m›` 中綴 | `ni-ata-habil-an`「他們把衣服放在其上」；`ata-halap-an`「他把手放在他們身上」；`ni-ata-kua-an`「他把（身體）安放入墓中」 |
+| `ata- II` | PRE | **VERB-CLASS** | 附著動詞詞根（bvb3，第3類）：「饒恕、赦免、接受」；可能與 `ataral`「撇下、饒恕」有關 | `m-ata-hawma`「饒恕」；`ata-hawma-an`「饒恕（名詞）」；`m-ata-nino`「廢除、赦免」；`m-ata-rix`「接受」 |
 | `-aw` | SUF | **MOOD** · **VOICE** | 虛擬式＋受事導向（`sj.uo`），受詞彙限制 | `kan-aw`「讓它被吃」；`ătaral-aw` |
 | `-awl=` | SUF | **MOOD** · **VOICE** | `-aw` 在附著詞 `=ato`/`=ăpa` 之前的異音語素 | `kan-awl=ato` |
 | `-än` | SUF | **CASE** | 人名名詞上的斜格後綴（`obl`） | `tini-än`「他/她（斜格）」；`ĭmian-än`「我們（斜格，排他）」 |
@@ -46,6 +46,20 @@
 | `pa-ka-` | PRE | **CAUS** | 第1類動詞（`ao1`）的使役（`caus`） | `pa-ka-kuptix`「使純潔」；`pa-ka-riang-a`「拯救」 |
 | `pa-pa-` | PRE | **CAUS** | 第4類動詞（`v4`）的使役（`caus`） | `pa-pa-reya`「締造和平」；`pa-pa-kulamux`「使穿衣」 |
 | `paha-` | PRE | **TRANSF** | 轉換：「把X變成Y」 | `paha-pa-paul`「變成麵包」；`paha-viri-viri`「翻譯」 |
+| `sa-` | PRE | **VERB-CLASS** | 附著動詞詞根（bvb2，第2類）：「穿越狹窄空間／穿越困難」；亦見於語義領域不固定的複合詞中 | `sa-ka-kua`「走艱難的路」；`sa-ra-rbo`「（從狹窄開口）進入」；`sa-cĭt`「投擲」 |
+| `saki-` | PRE | **VERB-CLASS** | 附著動詞詞根（bvb3，第3類）：「投擲」；施事語態中插入 `‹m›` 中綴 | `s‹m›aki-vaung`「投入海中」；`s‹m›aki-mala`「拋出、逐出」；`s‹m›aki-nanang`「稱呼、命名」 |
+| `sako- / saku-` | PRE | **VERB-CLASS** | 附著動詞詞根（bvb2，第2類）：「察看／尋找某物」 | `sako-a-la-lingaw-an`「鏡子」；`saku-peri`「挑選」 |
+| `sala-` | PRE | **VERB-CLASS** | 附著動詞詞根（bvb3，第3類）；語義不明（Adelaar 標為「?」）；施事語態中插入 `‹m›` 中綴 | `s‹m›ala-dĭlux`「跟隨」 |
+| `sau- / saw- I` | PRE | **VERB-CLASS** | 附著動詞詞根（bvb4，第4類）：(1)「注視」；(2)「起誓、援引」 | (1) `ma-saw-vulas`「面露悲傷」；(2) `sau-'lkit`「起誓」；`saw-la-'lkŭt`「誓言」 |
+| `sau- / saw- II` | PRE | **VERB-CLASS** | 附著動詞詞根（bvb，類別不明）；語義不明（Adelaar 標為「??」）：已知義項有「搶奪」、「依附／與……同住」、「離婚、離棄」 | `pa-saw-ara`「搶奪」；`saw-tawax`「離婚、離棄」；`saw-lam`「依附、與……同住」 |
+| `si- I` | PRE | **VERB-CLASS** | 附著動詞詞根（bvb2，第2類）：(1)「命令、指揮、居於權力階層」；(2)「排序、居於某順序」 | (1) `si-bavaw`「居上位；統治者」；`si-kidi`「命令、囑咐」；(2) `si-nḡada`「第一（的）」；`si-uro`「先做」 |
+| `si- II` | PRE | **VERB-CLASS** | 附著動詞詞根（bvb2，第2類）：「轉變」 | `si-lala`「改變、變得不同」；`si-tanang`「預備」 |
+| `si- III` | PRE | **VERB-CLASS** | 附著動詞詞根（bvb，類別不明）：「背叛、欺騙、傷害」 | `si-mha-mha`「背叛、欺騙」；`si-dada`「毀壞、敗壞」 |
+| `si- IV` | PRE | **VERB-CLASS** | 附著動詞詞根（bvb2，第2類）：「分配」 | `si-at-atäx`「分配、與……分享」 |
+| `si- V` | PRE | **VERB-CLASS** | 附著動詞詞根（bvb2，第2類）；無單一明確語義領域（Adelaar 標為「?」） | `si-ba`「疲累、精疲力盡」；`si-kavax-ǝn`「約」；`sĭ-kunung`「隨心所欲」 |
+| `su- I` | PRE | **VERB-CLASS** | 附著動詞詞根（bvb3，第3類）：「觸摸」；施事語態中插入 `‹m›` 中綴 | `s‹m›u-kla`「觸摸」；`s‹m›u-rap`「觸摸」；`s‹m›u-valey`「找到」 |
+| `su- II` | PRE | **VERB-CLASS** | 附著動詞詞根（bvb2，第2類）：「看守」 | `su-ayam`「放牧、看守；牧人」；`su-a-ayam`「看守、夜間看守的時段」 |
+| `sux-` | PRE | **VERB-CLASS** | 附著動詞詞根（bvb2，第2類）：「模仿、造成虛假印象」；在某些後接成分之前表現為 `su-` | `ni-pa-sux-ali-alid`「偶像」；`su-Christus`「假基督」；`su-ivŭng`「隱藏」 |
 | `tama-` | PRE | **NOML** | 施事名詞化：「做V的人」 | `tama-dĭlux`「領導者」；`tama-ma-täutäux`「老師」；`tama-xail`「見證人」 |
 | `-u` | SUF | **MOOD** | 祈使式後綴（`imp`） | `kading-u=kame`「救我們！」 |
 | `u-` / `äw-` | PRE | **ORIENT** | 運動趨向（`mot`）：「朝向、進入」 | `m-u-rbo`「進去」；`m-äw-äwma`「去城市」 |
